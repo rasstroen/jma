@@ -8,9 +8,9 @@
 .l-header-nav ul {float:left; list-style:none}
 .l-header-nav ul li {float:left; list-style:none; margin-right:5px}
 
-.l-content {float:right; width:720px; padding-right:20px}
+.l-content {float:right; width:860px; padding-right:20px}
 .l-content .module {overflow:hidden; margin-bottom:2em}
-.l-sidebar {float:left; width:200px; padding:10px}
+.l-sidebar {float:left; width:60px; padding:10px}
 
 .l-footer-nav ul li {float:left; list-style:none; margin-right:5px}
 

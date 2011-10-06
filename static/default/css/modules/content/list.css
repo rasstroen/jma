@@ -8,7 +8,6 @@
     position: absolute;
     top:0px;
     left:0px;
-    
     background: url(/static/img/cc.png);
 }
 .picture-list-item.title a{

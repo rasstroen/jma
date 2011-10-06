@@ -5,6 +5,7 @@
 		<xsl:value-of select="@title"></xsl:value-of>
 	</title>
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+	
 	<xsl:apply-templates select="css" mode="stylesheets" />
 </xsl:template>
 <xsl:template match="*" mode="stylesheets">
@@ -51,7 +52,7 @@
 </xsl:template>
 
 <xsl:template match="*" mode="l-sidebar">
-  
+	
 </xsl:template>
 
 <xsl:template match="*" mode="l-footer">
